@@ -1,7 +1,7 @@
 export default {
   // List URLs here directly
   urlsToPing: [
-    "https://example1.com",
+    "https://frozen-music-bot-xqe8.onrender.com",
     "https://example2.com",
     // Add more URLs as needed
   ],
